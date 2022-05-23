@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m a graduate industrial engineering student specializing in Supply Chain Management with a habit of learning things that are not even remoteley related to me. As of today, I’m interning at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.alstom.com/" target="_blank" rel="noreferrer">
           Alstom SA
         </a>
         .
