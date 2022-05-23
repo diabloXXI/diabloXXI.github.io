@@ -72,15 +72,15 @@ const Hero = () => {
       </p>
     </>
   );
-<!--  const five = (
+  const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href=""
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      NON_FUNCTIONAL BUTTON!
     </a>
-  ); -->
+  );
 
   const items = [one, two, three, four, five];
 
